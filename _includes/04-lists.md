@@ -4,3 +4,8 @@
 <li>Football</li>
 <li>Batminton</li>
 </ol>
+
+
+* Cricket
+* Football
+* Batminton
