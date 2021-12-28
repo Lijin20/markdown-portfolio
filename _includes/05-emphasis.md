@@ -1,2 +1,2 @@
-** Bold text
-_ italic text
+** Bold text **
+_ italic text _
